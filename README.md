@@ -51,3 +51,58 @@
 </ul>
 
 </div>
+<div dir="rtl" style="text-align:right;">
+
+## 📸 صور من التطبيق
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="screenshots/01-home.jpg"><img src="screenshots/01-home.jpg" width="180" alt="الرئيسية"></a>
+      <div>الرئيسية</div>
+    </td>
+    <td align="center">
+      <a href="screenshots/02-quran.jpg"><img src="screenshots/02-quran.jpg" width="180" alt="المصحف"></a>
+      <div>المصحف</div>
+    </td>
+    <td align="center">
+      <a href="screenshots/03-prayer-times.jpg"><img src="screenshots/03-prayer-times.jpg" width="180" alt="مواقيت الصلاة"></a>
+      <div>مواقيت الصلاة</div>
+    </td>
+    <td align="center">
+      <a href="screenshots/04-qibla.jpg"><img src="screenshots/04-qibla.jpg" width="180" alt="القبلة"></a>
+      <div>القبلة</div>
+    </td>
+    <td align="center">
+      <a href="screenshots/05-hifz-plan.jpg"><img src="screenshots/05-hifz-plan.jpg" width="180" alt="خطة الحفظ"></a>
+      <div>خطة الحفظ</div>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <a href="screenshots/06-tasbeeh.jpg"><img src="screenshots/06-tasbeeh.jpg" width="180" alt="السبحة"></a>
+      <div>السبحة</div>
+    </td>
+    <td align="center">
+      <a href="screenshots/07-adhkar.jpg"><img src="screenshots/07-adhkar.jpg" width="180" alt="الأذكار"></a>
+      <div>الأذكار</div>
+    </td>
+    <td align="center">
+      <a href="screenshots/08-hadith.jpg"><img src="screenshots/08-hadith.jpg" width="180" alt="المكتبة الحديثية"></a>
+      <div>المكتبة الحديثية</div>
+    </td>
+    <td align="center">
+      <a href="screenshots/09-radio.jpg"><img src="screenshots/09-radio.jpg" width="180" alt="الإذاعة المباشرة"></a>
+      <div>الإذاعة المباشرة</div>
+    </td>
+    <td align="center">
+      <a href="screenshots/10-occasions.jpg"><img src="screenshots/10-occasions.jpg" width="180" alt="المناسبات الإسلامية"></a>
+      <div>المناسبات الإسلامية</div>
+    </td>
+  </tr>
+</table>
+
+<p>اضغط على أي صورة لفتحها بالحجم الكامل.</p>
+
+</div>
